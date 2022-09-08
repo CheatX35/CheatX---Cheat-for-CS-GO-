@@ -1,2 +1,2 @@
 # cheatx
-Cheat for CS-GO. Requires an update. Use if you can understand my code :)
+Open Source Cheat for CS-GO. Requires an update. Use if you can understand my code :)
